@@ -1,4 +1,4 @@
-# **Coupling-an-elastic-string-to-an-active-bath**
+# **Coupling an elastic string to an active bath**
 
 For more information, check out the paper: [Beyen, A., Maes, C. and Pei, J.-H. Coupling an elastic string to an active bath: the emergence of inverse damping. arXiv:2505.18665 [cond-mat.stat-mech]](https://arxiv.org/abs/2505.18665)
 
