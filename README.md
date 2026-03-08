@@ -1,6 +1,6 @@
 # **Coupling an elastic string to an active bath**
 
-For more information, check out the paper: [Beyen, A., Maes, C. and Pei, J.-H. Coupling an elastic string to an active bath: the emergence of inverse damping. arXiv:2505.18665 [cond-mat.stat-mech]](https://arxiv.org/abs/2505.18665)
+For more information, check out the paper: [Beyen, A., Maes, C. and Pei, J.-H. Coupling an elastic string to an active bath: the emergence of inverse damping. Phys. Rev. E 112, L042103](https://journals.aps.org/pre/abstract/10.1103/g1zm-23sq)
 
 Abstract: We consider a slow elastic string with Klein-Gordon dynamics coupled to a bath of run-and-tumble particles. We derive and solve the induced Langevin-Klein-Gordon string dynamics with explicit expressions for the streaming term, friction coefficient, and noise variance. These parameters are
 computed exactly in a weak coupling expansion. The induced friction is a sum of two terms: one entropic, proportional to the noise variance as in the Einstein relation for a thermal equilibrium
